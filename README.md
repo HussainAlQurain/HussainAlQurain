@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hussain AlQurain
 - 👀 I’m interested in full stack development.
-- 🌱 I’m currently taking 'Full Stack Javascript Developer" Nanodegree from Udacity.
+- 🌱 Javascript Developer.
 - 📫 contact me at hussain.qurain@outlook.com
 
 <!---
