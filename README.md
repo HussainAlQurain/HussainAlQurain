@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Hussain AlQurain
-- 🌱 Full Stack Javascript Developer.
+- 🌱 Bachelor's in Computer Science.
+- 📖 Currently Studying MX of High performance and Cloud Computing at KFUPM
 - 📫 contact me at hussain.qurain@outlook.com
 
 <!---
