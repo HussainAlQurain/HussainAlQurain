@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hussain AlQurain
 - 🌱 Bachelor's in Computer Science.
-- 📖 Currently Studying MX of High performance and Cloud Computing at KFUPM
+- 📖 Currently Studying for my  Master's Degree in High performance and Cloud Computing at KFUPM
 - 📫 contact me at hussain.qurain@outlook.com
 
 <!---
